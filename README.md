@@ -85,8 +85,8 @@ This project's interface decisions are grounded in HCI theory rather than visual
 ## Figma Prototypes
 
 - **Assignment 1 — Wireframes & UX Research:**
-- [Figma Link- Desktop]: https://www.figma.com/design/tSe5g9eHH9a9kln8wZntQJ/Wireframes?node-id=0-1
-- [Figma Link- SmartWatch]: https://www.figma.com/design/tSe5g9eHH9a9kln8wZntQJ/Wireframes?node-id=39-224
+- **[Figma Link- Desktop]: https://www.figma.com/design/tSe5g9eHH9a9kln8wZntQJ/Wireframes?node-id=0-1
+- **[Figma Link- SmartWatch]: https://www.figma.com/design/tSe5g9eHH9a9kln8wZntQJ/Wireframes?node-id=39-224
 - **Assignment 2 — High-Fidelity Design System & Prototype:** [Figma Link]:https://www.figma.com/design/bqPWIha0Vlo9vnY0kRMtYw/Assignment-2?
 node-id=2134-497&t=yndpcSzjlxderrip-1
 
